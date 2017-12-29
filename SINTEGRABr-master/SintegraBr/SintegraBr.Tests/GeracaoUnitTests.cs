@@ -6,6 +6,7 @@ using SintegraBr.Common;
 
 namespace SintegraBr.Tests
 {
+    //testes unitários
     [TestClass]
     public class GeracaoUnitTests
     {
